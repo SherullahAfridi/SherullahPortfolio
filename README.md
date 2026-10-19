@@ -5,7 +5,7 @@ Welcome to my personal portfolio website.
 This portfolio showcases my background, technical skills, projects, certifications, and professional experience in **Networking, Cybersecurity, Linux, Software Engineering, and Front-End AI Development**.
 
 🌐 **Live Portfolio:**  
-https://sherullahafridi.github.io/Sherullah-Portfolio-Website/
+https://sherullahafridi.github.io/SherullahPortfolio/
 
 ---
 
